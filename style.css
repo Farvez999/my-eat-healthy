@@ -1,0 +1,114 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+h4 {
+    font-size: 25px;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.helf-weight {
+    width: 50%;
+    padding: 3%;
+}
+
+.helthy-img {
+    width: 100%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(45deg, orange, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+
+.p-text {
+    margin: 35px 0px
+}
+
+.about-me {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.peson-image {
+    width: 65%;
+    margin: 0px 60px;
+}
+
+.about-me-text {
+    margin-top: 80px;
+    text-align: justify;
+}
+
+.contact-me-button {
+    text-decoration: none;
+    background-image: linear-gradient(45deg, orange, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 30px;
+
+    border-radius: 20px;
+}
+
+.my-recipies {
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.recipies-item {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 20px;
+}
+
+.recipies-image {
+    width: 100%;
+}
+
+.comment-item {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.comment-area {
+    margin: 60px;
+    box-shadow: 10px 10px 20px gray;
+    border: 20px;
+    border-radius: 20px;
+
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: black;
+    color: white;
+}
